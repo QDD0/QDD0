@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=QDD0&show_icons=true&theme=dark&rank_icon=github" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QDD0&layout=donut&theme=dark" />
+</a> -->
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=QDD0&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<div align="center">
+  <a href="https://github.com/QDD0">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=QDD0&show_icons=true&theme=dark&rank_icon=github&hide_border=true" />
+  </a>
+  <a href="https://github.com/QDD0">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QDD0&layout=donut&theme=dark&hide_border=true" />
+  </a>
+</div>
