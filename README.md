@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 </a> -->
 
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=QDD0&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=QDD0&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 <div align="center">
   <a href="https://github.com/QDD0">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=QDD0&show_icons=true&theme=dark&rank_icon=github&hide_border=true" />
