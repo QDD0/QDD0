@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=QDD0&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=QDD0&theme=github-dark&hide_border=true" />
   </a>
 </p>
 
