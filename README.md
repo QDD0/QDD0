@@ -23,15 +23,24 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=QDD0&theme=github-dark&hide_border=true" />
+    <img 
+      src="https://streak-stats.demolab.com/?user=QDD0&theme=tokyonight&hide_border=true" 
+    />
   </a>
 </p>
 
 <div align="center">
   <a href="https://github.com/QDD0">
-    <img height="200" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QDD0&theme=github_dark" />
+    <img 
+      height="200" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QDD0&theme=tokyonight" 
+    />
   </a>
+  
   <a href="https://github.com/QDD0">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QDD0&layout=donut&theme=dark&hide_border=true&count_private=true" />
+    <img 
+      height="200" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=QDD0&layout=donut&theme=tokyonight&hide_border=true&count_private=true" 
+    />
   </a>
 </div>
