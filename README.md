@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/QDD0">
     <img 
       height="200" 
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=QDD0&layout=donut&theme=tokyonight&hide_border=true&count_private=true" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=QDD0&layout=donut&theme=tokyonight&hide_border=true&count_private=true&hide=html,css" 
     />
   </a>
 </div>
